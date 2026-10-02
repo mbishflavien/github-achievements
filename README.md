@@ -7,3 +7,5 @@ Playground for unlocking GitHub achievements
 - YOLO
 - Pull Shark
 - Pair Extraordinaire
+
+Made with ❤️ in Rwanda.
